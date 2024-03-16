@@ -1,0 +1,3 @@
+Model,Test_Loss,Test_Accuracy
+Simple_neural_network_model,0.34731525182724,0.849450409412384
+Complex_neural_network_model,0.6428201794624329,0.5742664337158203
